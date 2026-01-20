@@ -17,6 +17,7 @@ This project generates new music using AI techniques.
 2. Notes are extracted and converted into sequences
 3. An LSTM model learns music patterns
 4. New music is generated and saved as a MIDI file
+5. python generate_music.py (just run)
 
 ## Output
 - generated_music.mid
