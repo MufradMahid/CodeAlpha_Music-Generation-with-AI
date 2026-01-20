@@ -20,3 +20,7 @@ This project generates new music using AI techniques.
 
 ## Output
 - generated_music.mid
+
+## Output
+The model generates a MIDI music file (`generated_music.mid`).
+The file can be played using Windows Media Player or any MIDI-compatible player.
